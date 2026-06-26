@@ -1,16 +1,21 @@
-## Hi there 👋
+##Hi, I'm José Pinto
 
-<!--
-**josepintoeng-cpu/josepintoeng-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Web, Mobile & Game Development
 
-Here are some ideas to get you started:
+I build modern, scalable and high-performance digital solutions using technologies like React, Next.js, Flutter and Unity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies & Tools:
+HTML, CSS, JavaScript
+React & Next.js
+Flutter & React Native
+Firebase & APIs
+Unity, Unreal Engine, Godot
+What I'm focusing on:
+Building real-world projects
+Improving my development skills
+Working on international opportunities
+Contact me:
+LinkedIn: (coloca teu link)
+Email: (teu email profissional)
+
+##Always learning. Always building.
