@@ -1,4 +1,4 @@
-##Hi, I'm José Pinto
+## Hi, I'm José Pinto
 
 Full Stack Developer | Web, Mobile & Game Development
 
@@ -18,4 +18,4 @@ Contact me:
 LinkedIn: (coloca teu link)
 Email: (teu email profissional)
 
-##Always learning. Always building.
+## Always learning. Always building.
